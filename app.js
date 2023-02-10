@@ -20,4 +20,3 @@ const start = async () => {
 };
 
 start();
-
